@@ -81,7 +81,7 @@ The MySQL database is strictly normalized (3NF) to guarantee Data Integrity, uti
 * **Styling:** Tailwind CSS & Custom CSS[cite: 1]
 * **HTTP Client:** Axios[cite: 1]
 
----
+----
 
 ## 👨‍💻 Development Team
 
